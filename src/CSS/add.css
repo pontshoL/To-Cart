@@ -1,0 +1,32 @@
+.products{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    background-color: rgb(161, 163, 161);
+    padding-right: 750px;
+    
+}
+.product{
+    padding: 40px;
+    background-color: rgb(158, 154, 149);
+    border-color: rgb(73, 100, 70);
+    border-radius: 15px;
+}
+button{
+    font-size: 12px;
+    padding: 9px;
+    color: rgb(14, 125, 129);
+    background-color: black;
+    border-color: cadetblue;
+    border-radius: 12px;
+}
+header{
+    background-color: pink;
+    height: 70px;
+    padding-top: 20px;
+}
+img{
+    width: 180px;
+    height: 180px;
+    border: 5px solid rgb(167, 212, 191);
+    border-radius: 9px;
+}

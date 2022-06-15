@@ -1,0 +1,16 @@
+.display{
+    width: 700px;
+    height: 1200px;
+    margin-top: -1220px;
+    background-color: rgb(236, 238, 229);
+    float: right;
+    text-align: center;
+    border-radius: 15px;
+    color: rgb(185, 172, 99);
+    border-color:cadetblue;
+    
+}
+#images{
+    width:70px;
+    height: 70px;
+}
